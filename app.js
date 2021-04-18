@@ -1,3 +1,5 @@
+//Author Younis Rahman
+//www.younisrahman.com
 const inquirer = require('inquirer');
 
 var figlet = require('figlet');
